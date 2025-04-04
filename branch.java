@@ -3,6 +3,7 @@ class sample{
     {
         System.out.println("Hacker or What");
         System.out.println("Hi");
+        System.out.println("hello");
         
     }
 }
